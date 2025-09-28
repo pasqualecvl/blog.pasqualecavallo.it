@@ -1,7 +1,7 @@
 
 title: "Blog — Studio di Ingegneria dell'Informazione Pasquale Cavallo"
 description: "Note su progettazione, cloud, IoT, DevOps, KPI e ROI."
-theme: minima
+theme: jekyll-theme-slate
 # URL will be set automatically by GitHub Pages; set baseurl only if you publish under a project site
 # url: "https://blog.pasqualecavallo.it"
 # baseurl: ""
