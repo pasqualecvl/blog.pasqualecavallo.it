@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Perché ripartire dalla progettazione"
